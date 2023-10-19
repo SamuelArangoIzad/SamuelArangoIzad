@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center"> <img width="35" src="https://github.com/SamuelArangoIzad/SamuelArangoIzad/blob/main/resources/img/waving.gif">Hi, I'm Samuel&#x1F44B</h1>
+  <h1 align="center">Hi<img width="35" src="https://github.com/SamuelArangoIzad/SamuelArangoIzad/blob/main/resources/img/waving.gif">, I'm Samuel&#x1F44B</h1>
   <h4 align="center"><br> Welcome To My <a href="https://github.com/SamuelArangoIzad" target="_blank">GitHub Profile</a>. If you can imagine, you can program. I like to explore and develop different projects where, in the long term, they can improve and simplify our society. </h4>
 </div>
 
