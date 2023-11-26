@@ -17,10 +17,9 @@
       <h2 align="center">You can reach me by:</h2>
       <p align="center">
         <br/>
-        <a href="[www.linkedin.com/in/samuel-arango-diaz-a6a06a293](https://www.linkedin.com/in/samuel-arango-diaz-a6a06a293/)" target="blank"><img align="center"
+        <a href="https://www.linkedin.com/in/samuel-arango-diaz-a6a06a293/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/>
-        </a>
+         alt="azzar" height="30"/></a>
         <a href="https://www.facebook.com/arango.diaz.samuel?mibextid=ZbWKwL" target="blank">
           <img align="center" src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="azzar" height="30"/>
         </a>
