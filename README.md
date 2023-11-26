@@ -17,7 +17,7 @@
       <h2 align="center">You can reach me by:</h2>
       <p align="center">
         <br/>
-        <a href="www.linkedin.com/in/samuel-arango-diaz-a6a06a293" target="blank"><img align="center"
+        <a href="[www.linkedin.com/in/samuel-arango-diaz-a6a06a293](https://www.linkedin.com/in/samuel-arango-diaz-a6a06a293/)" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/>
         </a>
