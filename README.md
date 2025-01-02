@@ -20,13 +20,13 @@
         <a href="https://www.linkedin.com/in/samuel-arango-diaz-a6a06a293/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="azzar" height="30"/>
         </a>
-        <a href="https://www.facebook.com/profile.php?id=61558263504211&mibextid=ZbWKwL" target="blank"><img align="center" 
+        <a href="https://www.instagram.com/samuel_arng/profilecard/?igsh=a3FvMmVnbHpvaTIx" target="blank"><img align="center" 
         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="azzar" height="30"/>
         </a>
         <a href="mailto:samuelarangodiaz04@gmail.com">
           <img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="azzar" height="30"/>
         </a>
-        <a href="https://www.instagram.com/arango_sm/profilecard/?igsh=a3FvMmVnbHpvaTIx" target="blank"> 
+        <a href="https://www.instagram.com/samuel_arng/profilecard/?igsh=a3FvMmVnbHpvaTIx" target="blank"> 
           <img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="azzar" height="30"/>
         </a>
       </p>
