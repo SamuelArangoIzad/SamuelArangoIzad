@@ -70,8 +70,5 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-yellow)
 
-![GitHub followers](https://img.shields.io/github/followers/SamuelArangoIzad?style=social)
-![GitHub repo size](https://img.shields.io/github/repo-size/SamuelArangoIzad/Mini-Juego)
-![Last Commit](https://img.shields.io/github/last-commit/SamuelArangoIzad/Mini-Juego)
 ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?logo=hackaday&logoColor=white)
 
