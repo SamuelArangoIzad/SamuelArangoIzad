@@ -70,4 +70,6 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-yellow)
 ![Stars](https://img.shields.io/github/stars/<usuario>/<repo>?style=social)
+![Tests](https://github.com/<usuario>/<repo>/actions/workflows/test.yml/badge.svg)
+
 
