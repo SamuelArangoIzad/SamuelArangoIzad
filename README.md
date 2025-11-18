@@ -1,8 +1,4 @@
-ahora quiero agregar este https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdndnA3d3BqaGw4dGFsYzRlbTV2dGFmMnByMDR3cWY2eGVhanJ1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif  al lado de este <div style="text-align: center; padding: 10px;">
-    <img src="https://i.giphy.com/1oKQqphQDlpb2rHUpZ.webp" 
-         alt="Rocket Launch Animation" 
-         style="max-width: 280px; border-radius: 12px;" />
-</div> en mi github <div align="center">
+<div align="center">
   <h1 align="center">Hi, I'm Samuel&#x1F44B</h1>
   <h4 align="center"><br> Welcome To My <a href="https://github.com/SamuelArangoIzad" target="_blank">GitHub Profile</a>. If you can imagine, you can program. I like to explore and develop different projects where, in the long term, they can improve and simplify our society. </h4>
 </div>
