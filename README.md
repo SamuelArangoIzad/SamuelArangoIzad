@@ -74,5 +74,5 @@
 
 
 <div align="center" style="background-color: white; padding: 10px;">
-    <img src="https://i.pinimg.com/originals/2c/48/8f/2c488ff14973e572d4e20ced00220aca.gif" alt="Rocket Launch GIF"/>
+    <img src="https://i.giphy.com/1oKQqphQDlpb2rHUpZ.webp" alt="Rocket Launch GIF"/>
 </div>
