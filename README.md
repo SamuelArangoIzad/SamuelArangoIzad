@@ -74,7 +74,7 @@
 
 
 <div style="text-align: center; padding: 10px;">
-    <img src="https://i.giphy.com/1oKQqphQDlpb2rHUpZ.webp" 
+    <img src="https://i.giphy.com/L00auhhVx68CI.webp" 
          alt="Rocket Launch Animation" 
          style="max-width: 280px; border-radius: 12px;" />
 </div> 
