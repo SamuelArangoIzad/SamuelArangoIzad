@@ -73,8 +73,14 @@
 ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?logo=hackaday&logoColor=white)
 
 
-<div style="text-align: center; padding: 10px;">
-    <img src="https://i.giphy.com/1oKQqphQDlpb2rHUpZ.webp" 
-         alt="Rocket Launch Animation" 
-         style="max-width: 280px; border-radius: 12px;" />
+<div align="center" style="padding: 15px;">
+
+  <img src="https://i.giphy.com/1oKQqphQDlpb2rHUpZ.webp"
+       width="280"
+       style="border-radius: 14px; margin: 10px; box-shadow: 0 4px 14px rgba(0,0,0,0.15);" />
+
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdndnA3d3BqaGw4dGFsYzRlbTV2dGFmMnByMDR3cWY2eGVhanJ1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif"
+       width="280"
+       style="border-radius: 14px; margin: 10px; box-shadow: 0 4px 14px rgba(0,0,0,0.15);" />
+
 </div>
