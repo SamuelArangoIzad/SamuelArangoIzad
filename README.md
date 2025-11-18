@@ -72,3 +72,7 @@
 
 ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?logo=hackaday&logoColor=white)
 
+
+<div align="center">
+    <img src="https://i.pinimg.com/originals/2c/48/8f/2c488ff14973e572d4e20ced00220aca.gif" alt="Rocket Launch GIF"/>
+</div>
