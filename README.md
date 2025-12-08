@@ -59,7 +59,7 @@
         <a href="https://github.com/SamuelArangoIzad/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SamuelArangoIzad&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelArangoIzad&theme=gruvbox&hide_border=true" />
-        </a>
+        </a> 
       </p>
       <br>
     </samp>
