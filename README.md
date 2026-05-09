@@ -6,8 +6,10 @@
 
 <div align="center">
   <a href="https://github.com/SamuelArangoIzad">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/raw/readme/resources/grid-snake.svg" alt="snake" />
-  </a>
+    <img src="
+      https://github.com/1999AZZAR/1999AZZAR/blob/readme/public/grid-snake.svg
+      " alt="snake" />
+    
 </div>
 
 <details>
