@@ -6,9 +6,9 @@
 
 <div align="center">
   <a href="https://github.com/SamuelArangoIzad">
-    <img src="
-      https://github.com/1999AZZAR/1999AZZAR/blob/readme/public/grid-snake.svg
-      " alt="snake" />
+    <p align="center">
+  <img src="https://raw.githubusercontent.com/SamuelArangoIzad/SamuelArangoIzad/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
     
 </div>
 
