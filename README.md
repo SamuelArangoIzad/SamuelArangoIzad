@@ -144,10 +144,6 @@ Experiments and projects related to:
 
 <div align="center">
 
-<img
-width="49%"
-src="https://github-readme-stats.vercel.app/api?username=SamuelArangoIzad&show_icons=true&theme=gruvbox&hide_border=true"
-/>
 
 <img
 width="49%"
@@ -159,10 +155,6 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelArangoIzad&the
 ---
 
 <div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelArangoIzad&langs_count=8&theme=gruvbox&layout=compact&hide_border=true"
-/>
 
 </div>
 
