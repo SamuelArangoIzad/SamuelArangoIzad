@@ -13,15 +13,6 @@ FastAPI • Docker • PostgreSQL • Flutter • Linux • Networking • DevOp
 
 ---
 
-<div align="center">
-
-<img
-src="https://i.giphy.com/L00auhhVx68CI.webp"
-width="500"
-alt="Coding Animation"
-/>
-
-</div>
 
 ---
 
